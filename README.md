@@ -26,6 +26,6 @@ Acest proiect implementează un arbore binar ordonat (BST) în limbajul C, utili
 1. **Clonarea repository-ului**:
    ```bash
    git clone https://github.com/bianca-nistor/MAP.git
-   cd proiect-bst
+   cd MAP
 
  
