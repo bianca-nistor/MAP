@@ -16,6 +16,9 @@ Acest proiect implementează un arbore binar ordonat (BST) în limbajul C, utili
    - In-ordine (Inorder)
    - Post-ordine (Postorder)
    - Pe niveluri (Level-order)
+  
+     ![Ccaptura de ecran din cod](https://drive.google.com/file/d/1RB-2cfF6jxV-EmH9W76q-8KbtMO8mGB1/view?usp=sharin)
+
 3. Afișarea elementelor inserate și a rezultatelor traversărilor.
 
 ### Cum să rulezi programul
